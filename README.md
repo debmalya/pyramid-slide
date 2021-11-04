@@ -1,1 +1,1 @@
-"# pyramid-slide" 
+# pyramid-slide
